@@ -1,0 +1,64 @@
+[
+  {
+    "image": "./img/kvadro.jpeg",
+    "name": "Квадрокоптер",
+    "price": "5 999",
+    "description": " / Квадрокоптер на пульте управления с камерой"
+  },
+  {
+    "image": "./img/airplane.jpeg",
+    "name": "Самолет",
+    "price": "8 990",
+    "description": " / На пульте управления из легкого материала"
+  },
+  {
+    "image": "./img/car.jpeg",
+    "name": "Машинка",
+    "price": "3 000",
+    "description": " / Игрушечная машина на радиоуправлении"
+  },
+  {
+    "image": "./img/helicopter.jpeg",
+    "name": "Вертолет",
+    "price": "4 799",
+    "description": " / Большой вертолет на радиоуправлении с дальностью 5км"
+  },
+
+  {
+    "image": "./img/boat.jpeg",
+    "name": "Лодка",
+    "price": "5 499",
+    "description": " / Непотомляемая быстрая лодка на удаленном управлении"
+  },
+  {
+    "image": "./img/robot.jpeg",
+    "name": "Робот",
+    "price": "3 999",
+    "description": " / Детский робот на пульте управления"
+  },
+  {
+    "image": "./img/starwars.jpeg",
+    "name": "Звездные войны",
+    "price": "10 399",
+    "description": " / Лего-конструктор Star Wars из фильма"
+  },
+  {
+    "image": "./img/lego.jpeg",
+    "name": "Лего машина",
+    "price": "14 699",
+    "description": " / Лего-конструктор машинка на пульте управления"
+  },
+
+  {
+    "image": "./img/marvel.jpeg",
+    "name": "Лего Marvel",
+    "price": "6 999",
+    "description": " / Лего Марвел из фильма конструктор для детей"
+  },
+  {
+    "image": "./img/ship.png",
+    "name": "Лего Кораблик",
+    "price": "16 899",
+    "description": " / Лего большой коаблль с 30 000 деталей для детей"
+  }
+]
